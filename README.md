@@ -1,4 +1,4 @@
-![logo](Github Banner.gif)
+![logo](https://github.com/SoumikSen10/SoumikSen10/blob/main/Github%20Banner.gif)
 <h1 alin="center">Hi 👋, I'm Soumik Sen</h1>
 <h3 align="center">I am a computer science engineering student. I love programming, learning about development, reading about ancient history and public speaking. As a software engineering student, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
 
