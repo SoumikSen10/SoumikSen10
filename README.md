@@ -1,5 +1,5 @@
 <h2 alin="center">Hi 👋, I'm Soumik Sen</h2>
-<h3 align="center">I am a computer science engineering student. I love programming and learning about development. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
+<h4 align="center">I am a computer science engineering student. I love programming and learning about development. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h4>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
