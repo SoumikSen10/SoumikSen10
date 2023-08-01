@@ -1,4 +1,3 @@
-![logo](https://github.com/SoumikSen10/SoumikSen10/blob/main/githubbanner%20(2).gif)
 <h2 alin="center">Hi 👋, I'm Soumik Sen</h2>
 <h3 align="center">I am a computer science engineering student. I love programming and learning about development. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
 
