@@ -1,6 +1,6 @@
 ![logo](https://github.com/SoumikSen10/SoumikSen10/blob/main/githubbanner%20(2).gif)
 <h2 alin="center">Hi 👋, I'm Soumik Sen</h2>
-<h3 align="center">I am a computer science engineering student. I love programming and learning about development. As a software engineering student, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
+<h3 align="center">I am a computer science engineering student. I love programming and learning about development. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -12,13 +12,9 @@
 
 - 🔭 I’m currently working on **full-stack projects using MERN**
 
-- 🌱 I’m currently learning **MERN stack and Flutter**
-
 - 💬 Ask me about **anything, I am happy to help**
 
 - 📫 How to reach me **mastersoumik2003@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
