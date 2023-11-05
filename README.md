@@ -8,12 +8,9 @@
 
 # 💫 About Me:
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=Myself+Ankush+Paul.;I+am+a+Flutter+and+Java+Backend+Developer;My+passion+is+programming)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=Myself+Soumik+Sen.;I+am+a+MERN+stack+and+Java+Developer;My+passion+is+programming)<br>
 👨🏻‍💻 I’m currently learning JAVA Backend Development<br>💬 Ask me about DSA, MERN stack<br>📫 How to reach me mastersoumik2003@gmail.com<br>⚡ Fun fact I am lazy but smart.😎😅
 <br>
-
-<!-- ## Resume:
-<p align = "center" > <a href="https://github.com/SoumikSen10/SoumikSen10/blob/main/Resume.pdf" target="blank"><img vCenter="true"  Center = "true" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJmHaCC6I9-QCB6LVf2PauA4Uw85SCMaQUiKNShRyojho69mtUBZRXl61a7LJCEOiqIA&usqp=CAU](https://github.com/SoumikSen10/SoumikSen10/blob/main/Ankush's%20Resume.pdf)" alt="SoumikSen10" height="100" width="100" /></a>  <p/> -->
 
 <hr>
 
