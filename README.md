@@ -8,8 +8,8 @@
 
 # 💫 About Me:
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=Myself+Soumik+Sen.;I+am+a+MERN+stack+and+Java+Developer;My+passion+is+programming)<br>
-👨🏻‍💻 I’m currently learning JAVA Backend Development<br>💬 Ask me about DSA, MERN stack<br>📫 How to reach me mastersoumik2003@gmail.com<br>⚡ Fun fact I am lazy but smart.😎😅
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=Myself+Soumik+Sen.;I+am+a+MERN+stack+Developer;My+passion+is+programming)<br>
+👨🏻‍💻 I’m currently learning Machine Learning and Deep Learning<br>💬 Ask me about DSA, MERN stack<br>📫 How to reach me soumik.sen.2003.02@gmail.com<br>⚡ Fun fact I am lazy but focused as well as goal-oriented.😎😅
 <br>
 
 <hr>
